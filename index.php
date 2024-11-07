@@ -12,6 +12,11 @@
     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Non quasi earum, temporibus consectetur qui eos
         sapiente enim quam esse, pariatur assumenda recusandae, ratione quisquam exercitationem nemo cumque perspiciatis
         error commodi.</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+
+    </ul>
 </body>
 
 </html>
